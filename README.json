@@ -4,6 +4,27 @@
       "description": null,
       "items": [
         {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 176014370,
+            "language": "JavaScript",
+            "last_commit": "2024-11-19T06:13:12Z",
+            "owner": "anubhavsrivastava",
+            "repo": "awesome-ux-design-styles",
+            "stars": 113
+          },
+          "title": "Related List - Awesome UX Design Styleguides"
+        }
+      ],
+      "title": "Overview"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "node_type": "item",
           "title": "Ant Design React",
           "description": "An enterprise-class UI design language and React-based implementation. Ant-design Pro is available here",
@@ -12,10 +33,10 @@
             "archived": false,
             "id": 34526884,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T07:53:03Z",
+            "last_commit": "2026-08-24T12:43:50Z",
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99168
+            "stars": 99172
           }
         },
         {
@@ -27,10 +48,10 @@
             "archived": false,
             "id": 23083156,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T10:22:40Z",
+            "last_commit": "2026-08-24T12:56:04Z",
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 98909
+            "stars": 98914
           }
         },
         {
@@ -45,7 +66,7 @@
             "last_commit": "2026-08-22T16:15:30Z",
             "owner": "chakra-ui",
             "repo": "chakra-ui",
-            "stars": 40588
+            "stars": 40590
           }
         },
         {
@@ -75,7 +96,7 @@
             "last_commit": "2026-08-11T14:09:34Z",
             "owner": "magicuidesign",
             "repo": "magicui",
-            "stars": 22053
+            "stars": 22054
           }
         },
         {
@@ -105,7 +126,7 @@
             "last_commit": "2026-08-24T09:17:54Z",
             "owner": "microsoft",
             "repo": "fluentui",
-            "stars": 20226
+            "stars": 20227
           }
         },
         {
@@ -210,7 +231,7 @@
             "last_commit": "2026-08-13T07:05:44Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8960
+            "stars": 8961
           }
         },
         {
@@ -420,7 +441,7 @@
             "last_commit": "2026-07-30T08:44:07Z",
             "owner": "React95",
             "repo": "React95",
-            "stars": 3811
+            "stars": 3812
           }
         },
         {
@@ -432,7 +453,7 @@
             "archived": false,
             "id": 97698189,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T00:17:42Z",
+            "last_commit": "2026-08-24T11:57:54Z",
             "owner": "JetBrains",
             "repo": "ring-ui",
             "stars": 3784
@@ -525,7 +546,7 @@
             "last_commit": "2026-08-20T07:52:29Z",
             "owner": "kokonut-labs",
             "repo": "kokonutui",
-            "stars": 2046
+            "stars": 2048
           }
         },
         {
@@ -540,7 +561,7 @@
             "last_commit": "2026-08-20T10:38:17Z",
             "owner": "shadcnstudio",
             "repo": "shadcn-studio",
-            "stars": 1843
+            "stars": 1844
           }
         },
         {
@@ -912,7 +933,7 @@
             "archived": false,
             "id": 47776025,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T10:49:05Z",
+            "last_commit": "2026-08-24T12:08:50Z",
             "owner": "instructure",
             "repo": "instructure-ui",
             "stars": 479
@@ -1439,7 +1460,7 @@
                 "archived": false,
                 "id": 40345658,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T05:20:57Z",
+                "last_commit": "2026-08-24T14:06:54Z",
                 "owner": "recharts",
                 "repo": "recharts",
                 "stars": 27517
@@ -1472,7 +1493,7 @@
                 "last_commit": "2026-07-21T02:46:40Z",
                 "owner": "plouc",
                 "repo": "nivo",
-                "stars": 14087
+                "stars": 14088
               }
             },
             {
@@ -1484,7 +1505,7 @@
                 "archived": false,
                 "id": 988222683,
                 "language": "Vue",
-                "last_commit": "2026-08-24T10:49:33Z",
+                "last_commit": "2026-08-24T10:58:38Z",
                 "owner": "Simon-He95",
                 "repo": "markstream-vue",
                 "stars": 2957
@@ -1499,7 +1520,7 @@
                 "archived": false,
                 "id": 129922398,
                 "language": "JavaScript",
-                "last_commit": "2024-07-01T10:14:40Z",
+                "last_commit": "2026-08-24T13:50:57Z",
                 "owner": "styled-icons",
                 "repo": "styled-icons",
                 "stars": 2099
@@ -1574,6 +1595,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Bit",
+              "description": "End-to-end component sharing and management. It takes care of component development and publishing in your library (automatic dependency resolution, versioning etc), making each of them individually useful to consume and develop anywhere, so teams can manage and share components at scale.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 79723839,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T14:05:19Z",
+                "owner": "teambit",
+                "repo": "bit",
+                "stars": 18460
+              }
+            }
+          ],
+          "description": "Payload Components — MIT registry and CLI for installing typed Payload CMS blocks into Payload v3 + Next.js projects as owned source with collection, renderer, types, and admin import-map wiring.\nreact-sketchapp — render React components to Sketch; tailor-made for design systems",
+          "node_type": "group",
+          "title": "Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Awesome React",
               "description": "A collection of awesome things regarding React ecosystem.",
               "children": [],
@@ -1584,7 +1627,7 @@
                 "last_commit": "2026-08-20T07:58:12Z",
                 "owner": "enaqx",
                 "repo": "awesome-react",
-                "stars": 74380
+                "stars": 74383
               }
             },
             {
@@ -1652,10 +1695,10 @@
             "archived": false,
             "id": 67962648,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T03:29:07Z",
+            "last_commit": "2026-08-24T14:03:02Z",
             "owner": "vuetifyjs",
             "repo": "vuetify",
-            "stars": 41035
+            "stars": 41034
           }
         },
         {
@@ -1667,10 +1710,10 @@
             "archived": false,
             "id": 43695474,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T09:47:57Z",
+            "last_commit": "2026-08-24T13:11:14Z",
             "owner": "quasarframework",
             "repo": "quasar",
-            "stars": 27204
+            "stars": 27205
           }
         },
         {
@@ -1805,7 +1848,7 @@
             "last_commit": "2026-08-13T07:05:44Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8960
+            "stars": 8961
           }
         },
         {
@@ -2494,7 +2537,7 @@
                 "archived": false,
                 "id": 988222683,
                 "language": "Vue",
-                "last_commit": "2026-08-24T10:49:33Z",
+                "last_commit": "2026-08-24T10:58:38Z",
                 "owner": "Simon-He95",
                 "repo": "markstream-vue",
                 "stars": 2957
@@ -2504,6 +2547,28 @@
           "description": null,
           "node_type": "group",
           "title": "Special use case libraries"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome Vue",
+              "description": "A curated list of awesome things related to Vue.js",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44571718,
+                "language": null,
+                "last_commit": "2026-07-24T10:16:04Z",
+                "owner": "vuejs",
+                "repo": "awesome-vue",
+                "stars": 73534
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Related community list"
         }
       ],
       "title": "VueJS"
@@ -2538,7 +2603,7 @@
             "last_commit": "2026-01-31T17:46:33Z",
             "owner": "GeekyAnts",
             "repo": "NativeBase",
-            "stars": 20386
+            "stars": 20385
           }
         },
         {
@@ -2550,10 +2615,10 @@
             "archived": false,
             "id": 71323749,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T13:54:36Z",
+            "last_commit": "2026-08-24T12:31:03Z",
             "owner": "callstack",
             "repo": "react-native-paper",
-            "stars": 14449
+            "stars": 14450
           }
         },
         {
@@ -2862,6 +2927,28 @@
           "description": null,
           "node_type": "group",
           "title": "Special use case libraries"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome React Native",
+              "description": "Awesome React Native components, news, tools, and learning material!",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32948863,
+                "language": "JavaScript",
+                "last_commit": "2024-07-05T13:12:41Z",
+                "owner": "jondot",
+                "repo": "awesome-react-native",
+                "stars": 35690
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Related community list"
         }
       ],
       "title": "React Native"
@@ -2962,7 +3049,7 @@
             "last_commit": "2026-08-13T07:05:44Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8960
+            "stars": 8961
           }
         },
         {
@@ -3094,7 +3181,7 @@
             "archived": false,
             "id": 65904967,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T19:08:42Z",
+            "last_commit": "2026-08-24T13:10:59Z",
             "owner": "swimlane",
             "repo": "ngx-ui",
             "stars": 735
@@ -3231,7 +3318,7 @@
                 "archived": false,
                 "id": 988222683,
                 "language": "Vue",
-                "last_commit": "2026-08-24T10:49:33Z",
+                "last_commit": "2026-08-24T10:58:38Z",
                 "owner": "Simon-He95",
                 "repo": "markstream-vue",
                 "stars": 2957
@@ -3434,6 +3521,50 @@
             "repo": "ui-bootstrap",
             "stars": 11
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AnyChart-Ember",
+              "description": "AnyChart Component for Ember CLI provides an easy way to use AnyChart JavaScript Charts with Ember Framework",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 76821255,
+                "language": "JavaScript",
+                "last_commit": "2018-03-29T04:16:14Z",
+                "owner": "AnyChart",
+                "repo": "AnyChart-Ember",
+                "stars": 12
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Special use case libraries"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome Ember",
+              "description": "A curated list of awesome Ember.js things.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22416143,
+                "language": null,
+                "last_commit": "2019-07-12T19:20:03Z",
+                "owner": "nmec",
+                "repo": "awesome-ember",
+                "stars": 299
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Related community list"
         }
       ],
       "title": "EmberJS"
@@ -3500,6 +3631,28 @@
             "repo": "mithril-materialized",
             "stars": 27
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome Mithril",
+              "description": "A curated list of Mithril awesome",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 84966355,
+                "language": null,
+                "last_commit": "2023-05-12T08:32:14Z",
+                "owner": "orbitbot",
+                "repo": "awesome-mithril",
+                "stars": 211
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Related community list"
         }
       ],
       "title": "Mithril"
@@ -3519,7 +3672,7 @@
             "last_commit": "2026-08-21T19:32:39Z",
             "owner": "material-components",
             "repo": "material-web",
-            "stars": 11193
+            "stars": 11196
           }
         },
         {
@@ -3611,9 +3764,74 @@
             "repo": "AsciiTheme",
             "stars": 1
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Web Components the Right Way",
+              "description": "A curated list of awesome Web Components resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25369460,
+                "language": null,
+                "last_commit": "2026-08-17T10:42:44Z",
+                "owner": "web-padawan",
+                "repo": "awesome-web-components",
+                "stars": 3564
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Related community list"
         }
       ],
       "title": "Web Components"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "WebcoreUI",
+          "description": "Configurable and themeable Astro UI component library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 813841048,
+            "language": "Astro",
+            "last_commit": "2026-07-08T14:38:41Z",
+            "owner": "Frontendland",
+            "repo": "webcoreui",
+            "stars": 208
+          }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome Astro",
+              "description": "Curated resources on building sites with Astro.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 376727879,
+                "language": null,
+                "last_commit": "2026-07-29T19:57:25Z",
+                "owner": "one-aalam",
+                "repo": "awesome-astro",
+                "stars": 935
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Related community list"
+        }
+      ],
+      "title": "Astro"
     },
     {
       "description": null,
@@ -3728,7 +3946,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:56:18.031Z",
+    "last_updated": "2026-08-24T14:09:06.876Z",
     "original_repository": "anubhavsrivastava/awesome-ui-component-library",
     "original_repository_id": 159008574,
     "original_repository_sha": "14bb4fe5015c65c2772ebea472fbc696d10d1de6",
