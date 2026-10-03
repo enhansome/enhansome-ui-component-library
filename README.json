@@ -58,7 +58,7 @@
             "open_issues": 1098,
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99662,
+            "stars": 99663,
             "topics": [
               "ant-design",
               "antd",
@@ -87,7 +87,7 @@
             "open_issues": 1473,
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 99124,
+            "stars": 99125,
             "topics": [
               "design-system",
               "material-design",
@@ -177,10 +177,10 @@
             "language": "MDX",
             "license": "MIT",
             "last_commit": "2026-09-20T02:38:38Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "magicuidesign",
             "repo": "magicui",
-            "stars": 22449,
+            "stars": 22454,
             "topics": [
               "components",
               "framer-motion",
@@ -209,7 +209,7 @@
             "open_issues": 953,
             "owner": "palantir",
             "repo": "blueprint",
-            "stars": 22114,
+            "stars": 22115,
             "topics": [
               "blueprint",
               "components",
@@ -243,7 +243,7 @@
             "open_issues": 813,
             "owner": "microsoft",
             "repo": "fluentui",
-            "stars": 20303,
+            "stars": 20304,
             "topics": [
               "components",
               "fluent",
@@ -306,7 +306,7 @@
             "open_issues": 247,
             "owner": "Semantic-Org",
             "repo": "Semantic-UI-React",
-            "stars": 13197,
+            "stars": 13198,
             "topics": [
               "component-library",
               "components",
@@ -364,11 +364,11 @@
             "id": 815634288,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T02:06:22Z",
+            "last_commit": "2026-10-03T13:36:59Z",
             "open_issues": 46,
             "owner": "tambo-ai",
             "repo": "tambo",
-            "stars": 11182,
+            "stars": 11181,
             "topics": [
               "agent",
               "agents",
@@ -526,8 +526,8 @@
             "id": 60492769,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-21T09:02:41Z",
-            "open_issues": 322,
+            "last_commit": "2026-10-03T14:14:31Z",
+            "open_issues": 318,
             "owner": "rsuite",
             "repo": "rsuite",
             "stars": 8694,
@@ -556,8 +556,8 @@
             "id": 104133653,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-03T01:35:43Z",
-            "open_issues": 48,
+            "last_commit": "2026-10-03T13:58:47Z",
+            "open_issues": 50,
             "owner": "ariakit",
             "repo": "ariakit",
             "stars": 8623,
@@ -757,7 +757,7 @@
             "id": 107422373,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T02:18:14Z",
+            "last_commit": "2026-10-03T14:17:24Z",
             "open_issues": 199,
             "owner": "elastic",
             "repo": "eui",
@@ -888,7 +888,7 @@
             "open_issues": 17,
             "owner": "React95",
             "repo": "React95",
-            "stars": 3830,
+            "stars": 3831,
             "topics": [
               "design-system",
               "hacktoberfest",
@@ -1081,7 +1081,7 @@
             "open_issues": 0,
             "owner": "kokonut-labs",
             "repo": "kokonutui",
-            "stars": 2131,
+            "stars": 2132,
             "topics": [
               "components",
               "framer-motion",
@@ -1111,7 +1111,7 @@
             "open_issues": 7,
             "owner": "shadcnstudio",
             "repo": "shadcn-studio",
-            "stars": 1922,
+            "stars": 1924,
             "topics": [
               "component",
               "components-library",
@@ -1541,7 +1541,7 @@
             "open_issues": 1,
             "owner": "shadcnspace",
             "repo": "shadcnspace",
-            "stars": 766,
+            "stars": 767,
             "topics": [
               "base-ui",
               "component",
@@ -2281,7 +2281,7 @@
             "open_issues": 0,
             "owner": "codedthemes",
             "repo": "uiable",
-            "stars": 125,
+            "stars": 124,
             "topics": [
               "base-ui",
               "components",
@@ -2684,6 +2684,32 @@
         },
         {
           "node_type": "item",
+          "title": "bestax-bulma",
+          "description": "TypeScript React components for the Bulma v1 CSS framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A fully-typed React component library for the Bulma CSS framework. Build modern UIs quickly with reusable, accessible, and customizable Bulma-based React components.",
+            "homepage": "https://bestax.io/",
+            "id": 975765002,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-10-03T13:44:33Z",
+            "open_issues": 20,
+            "owner": "allxsmith",
+            "repo": "bestax",
+            "stars": 12,
+            "topics": [
+              "bulma",
+              "components",
+              "react",
+              "typescript"
+            ]
+          },
+          "first_seen": "2026-10-02T16:17:13.794Z"
+        },
+        {
+          "node_type": "item",
           "title": "OneUI",
           "description": "Textkernel OneUI library of reusable UI components",
           "children": [],
@@ -2707,32 +2733,6 @@
             ]
           },
           "first_seen": "2026-08-28T21:11:26.734Z"
-        },
-        {
-          "node_type": "item",
-          "title": "bestax-bulma",
-          "description": "TypeScript React components for the Bulma v1 CSS framework.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A fully-typed React component library for the Bulma CSS framework. Build modern UIs quickly with reusable, accessible, and customizable Bulma-based React components.",
-            "homepage": "https://bestax.io/",
-            "id": 975765002,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-10-03T03:36:17Z",
-            "open_issues": 22,
-            "owner": "allxsmith",
-            "repo": "bestax",
-            "stars": 11,
-            "topics": [
-              "bulma",
-              "components",
-              "react",
-              "typescript"
-            ]
-          },
-          "first_seen": "2026-10-02T16:17:13.794Z"
         },
         {
           "node_type": "item",
@@ -2827,11 +2827,11 @@
                 "id": 40345658,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-03T01:58:55Z",
-                "open_issues": 454,
+                "last_commit": "2026-10-03T12:45:02Z",
+                "open_issues": 451,
                 "owner": "recharts",
                 "repo": "recharts",
-                "stars": 27614,
+                "stars": 27612,
                 "topics": [
                   "chart",
                   "charting-library",
@@ -2920,11 +2920,11 @@
                 "id": 988222683,
                 "language": "Vue",
                 "license": "MIT",
-                "last_commit": "2026-10-03T00:49:40Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-03T08:07:16Z",
+                "open_issues": 2,
                 "owner": "Simon-He95",
                 "repo": "markstream-vue",
-                "stars": 3024,
+                "stars": 3025,
                 "topics": [
                   "ai",
                   "ai-chat",
@@ -3170,7 +3170,7 @@
                 "open_issues": 17,
                 "owner": "enaqx",
                 "repo": "awesome-react",
-                "stars": 74782,
+                "stars": 74787,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -3202,7 +3202,7 @@
                 "open_issues": 98,
                 "owner": "brillout",
                 "repo": "awesome-react-components",
-                "stars": 48537,
+                "stars": 48540,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -3261,7 +3261,7 @@
             "open_issues": 2966,
             "owner": "ElemeFE",
             "repo": "element",
-            "stars": 54037,
+            "stars": 54036,
             "topics": [
               "components",
               "element-ui",
@@ -3287,10 +3287,10 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-10-02T23:01:56Z",
-            "open_issues": 389,
+            "open_issues": 390,
             "owner": "vuetifyjs",
             "repo": "vuetify",
-            "stars": 41033,
+            "stars": 41032,
             "topics": [
               "javascript",
               "material",
@@ -3372,7 +3372,7 @@
             "open_issues": 227,
             "owner": "youzan",
             "repo": "vant",
-            "stars": 24385,
+            "stars": 24386,
             "topics": [
               "components",
               "mobile",
@@ -3401,7 +3401,7 @@
             "open_issues": 1237,
             "owner": "iview",
             "repo": "iview",
-            "stars": 23757,
+            "stars": 23756,
             "topics": [
               "components",
               "css",
@@ -3526,7 +3526,7 @@
             "open_issues": 200,
             "owner": "bootstrap-vue",
             "repo": "bootstrap-vue",
-            "stars": 14419,
+            "stars": 14418,
             "topics": [
               "a11y",
               "accessibility",
@@ -4079,7 +4079,7 @@
             "open_issues": 26,
             "owner": "vuejs",
             "repo": "ui",
-            "stars": 1312,
+            "stars": 1311,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:26.734Z"
@@ -4262,8 +4262,8 @@
             "id": 83400754,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T13:44:38Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-03T05:26:05Z",
+            "open_issues": 6,
             "owner": "wxsms",
             "repo": "uiv",
             "stars": 937,
@@ -4932,11 +4932,11 @@
                 "id": 988222683,
                 "language": "Vue",
                 "license": "MIT",
-                "last_commit": "2026-10-03T00:49:40Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-03T08:07:16Z",
+                "open_issues": 2,
                 "owner": "Simon-He95",
                 "repo": "markstream-vue",
-                "stars": 3024,
+                "stars": 3025,
                 "topics": [
                   "ai",
                   "ai-chat",
@@ -4984,7 +4984,7 @@
                 "open_issues": 82,
                 "owner": "vuejs",
                 "repo": "awesome-vue",
-                "stars": 73538,
+                "stars": 73537,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:26.734Z"
@@ -5525,10 +5525,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-04-23T05:51:55Z",
-                "open_issues": 150,
+                "open_issues": 151,
                 "owner": "wix",
                 "repo": "react-native-calendars",
-                "stars": 10315,
+                "stars": 10316,
                 "topics": [
                   "android",
                   "calendar",
@@ -5637,7 +5637,7 @@
                 "open_issues": 25,
                 "owner": "jondot",
                 "repo": "awesome-react-native",
-                "stars": 35711,
+                "stars": 35712,
                 "topics": [
                   "awesome-list",
                   "mobile",
@@ -5741,11 +5741,11 @@
             "id": 49016322,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T21:12:08Z",
+            "last_commit": "2026-10-03T12:48:41Z",
             "open_issues": 1377,
             "owner": "angular",
             "repo": "components",
-            "stars": 25037,
+            "stars": 25036,
             "topics": [
               "angular",
               "angular-components",
@@ -5801,7 +5801,7 @@
             "open_issues": 800,
             "owner": "NG-ZORRO",
             "repo": "ng-zorro-antd",
-            "stars": 9179,
+            "stars": 9180,
             "topics": [
               "angular",
               "angular-components",
@@ -6399,11 +6399,11 @@
                 "id": 988222683,
                 "language": "Vue",
                 "license": "MIT",
-                "last_commit": "2026-10-03T00:49:40Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-03T08:07:16Z",
+                "open_issues": 2,
                 "owner": "Simon-He95",
                 "repo": "markstream-vue",
-                "stars": 3024,
+                "stars": 3025,
                 "topics": [
                   "ai",
                   "ai-chat",
@@ -6493,7 +6493,7 @@
                 "open_issues": 0,
                 "owner": "PatrickJS",
                 "repo": "awesome-angular",
-                "stars": 10078,
+                "stars": 10079,
                 "topics": [
                   "angular",
                   "angular-components",
@@ -7246,7 +7246,7 @@
                 "open_issues": 60,
                 "owner": "one-aalam",
                 "repo": "awesome-astro",
-                "stars": 950,
+                "stars": 951,
                 "topics": [
                   "astrodotbuild",
                   "awesome",
@@ -7491,7 +7491,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:12:59.171Z",
+    "last_updated": "2026-10-03T14:45:41.399Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of framework component libraries for UI styles/toolkit",
